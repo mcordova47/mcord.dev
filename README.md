@@ -13,3 +13,5 @@ To serve the files locally, I’m just running the following:
 ```console
 python3 -m http.server 8000
 ```
+
+The static files are under /docs, because that’s the only name GH allows for a GH pages subfolder
