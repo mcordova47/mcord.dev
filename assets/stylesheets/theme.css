@@ -1,0 +1,46 @@
+body {
+  font-family: Futura, sans-serif;
+  letter-spacing: 0.2em;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6,
+.display-md-1 {
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
+  letter-spacing: 0;
+}
+
+.letter-spacing-0 {
+  letter-spacing: 0;
+}
+
+body, .text-main {
+  color: #104A84;
+}
+
+body {
+  background-color: #d2f4ff;
+}
+
+.container-narrow {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hover\:opacity-75:hover {
+  opacity: 0.75;
+}
+
+@media (min-width: 800px) {
+  .display-md-1 {
+    font-size: calc(1.625rem + 4.5vw);
+    font-weight: 300;
+    line-height: 1.2;
+  }
+}
+
+.vh-50 {
+  height: 50vh;
+}
