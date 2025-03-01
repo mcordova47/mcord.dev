@@ -57,17 +57,21 @@ body {
 }
 
 .text-mint {
-  color: #80F07A !important;
+  color: #63d65d !important;
 }
 
 .text-chocolate {
-  color: #583006 !important;
+  color: #442504 !important;
 }
 
 .bg-mint {
-  background-color: #80F07A !important;
+  background-color: #63d65d !important;
 }
 
 .bg-chocolate {
-  background-color: #583006 !important;
+  background-color: #442504 !important;
+}
+
+.text-mint-dark {
+  color: #053b03 !important;
 }
