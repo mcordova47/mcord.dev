@@ -23,12 +23,6 @@ body {
   background-color: #d2f4ff;
 }
 
-.container-narrow {
-  max-width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .hover\:opacity-75:hover {
   opacity: 0.75;
 }
@@ -43,4 +37,13 @@ body {
 
 .vh-50 {
   height: 50vh;
+}
+
+.bg-cream {
+  background-color: #fff0dd;
+}
+
+.container-left {
+  max-width: 400px;
+  margin-left: auto;
 }

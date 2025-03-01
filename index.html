@@ -31,18 +31,21 @@
       <h1 class="display-4 display-md-1">.mcord.dev</h1>
     </div>
 
-    <div class="container-narrow">
-      <div class="vh-100 w-50 pe-2">
+    <div class="w-50 bg-cream">
+      <!-- first section is vh-100 so that it’s the only thing on the page on load -->
+      <div class="vh-100 pe-2 container-left">
         <div class="display-3 position-sticky top-50 text-end translate-middle-y">*</div>
       </div>
 
-      <div class="vh-100 w-50 pe-2">
+      <!-- all subtext sections are vh-100 and not sticky so that there is a full page before the next section appears -->
+      <div class="vh-100 pe-2 container-left">
         <p class="text-end text-muted small">
           This is a portfolio of some of the projects I’ve worked on
         </p>
       </div>
 
-      <div class="w-50 pe-2 vh-50">
+      <!-- all projects are vh-50 so that the subtext starts scrolling as soon as the header reaches the middle of the page -->
+      <div class="vh-50 pe-2 container-left">
         <a
           href="https://playlist.mcord.dev"
           class="display-3 d-block text-main position-sticky top-50 text-end translate-middle-y hover:opacity-75"
@@ -52,7 +55,8 @@
         </a>
       </div>
 
-      <div class="vh-50 w-50 pe-2">
+      <!-- the last section is vh-50 so that it stops around the middle of the page -->
+      <div class="vh-50 pe-2 container-left">
         <p class="text-end text-muted small">
           <em>plā</em> is an anonymized clone of a personal site I made to host my music
         </p>
