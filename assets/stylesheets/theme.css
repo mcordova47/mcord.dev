@@ -55,3 +55,19 @@ body {
 .dvh-50 {
   height: 50dvh;
 }
+
+.text-mint {
+  color: #80F07A !important;
+}
+
+.text-chocolate {
+  color: #583006 !important;
+}
+
+.bg-mint {
+  background-color: #80F07A !important;
+}
+
+.bg-chocolate {
+  background-color: #583006 !important;
+}
