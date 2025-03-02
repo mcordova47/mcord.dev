@@ -3,7 +3,7 @@
   --bs-primary-rgb: 99, 214, 93 !important;
   --bs-secondary: #442504 !important;
   --bs-secondary-rgb: 68, 37, 4 !important;
-  --bs-accent: #053b03 !important;
+  --accent-color: #053b03 !important;
 }
 
 body {
@@ -65,5 +65,5 @@ body {
 }
 
 .text-accent {
-  color: var(--bs-accent) !important;
+  color: var(--accent-color) !important;
 }
