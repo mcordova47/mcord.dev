@@ -1,9 +1,9 @@
 :root {
-  --bs-primary: #63d65d !important;
-  --bs-primary-rgb: 99, 214, 93 !important;
-  --bs-secondary: #442504 !important;
-  --bs-secondary-rgb: 68, 37, 4 !important;
-  --accent-color: #053b03 !important;
+  --bs-primary: rgb(18, 52, 110) !important;
+  --bs-primary-rgb: 18, 52, 110 !important;
+  --bs-secondary: rgb(213, 150, 167) !important;
+  --bs-secondary-rgb: 213, 150, 167 !important;
+  --accent-color: rgb(137, 166, 216) !important;
 }
 
 body {
