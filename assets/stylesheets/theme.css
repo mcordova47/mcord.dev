@@ -6,7 +6,7 @@
   --accent-color: rgb(137, 166, 216);
 }
 
-.theme-1 {
+.theme-cotton-candy {
   --bs-primary: rgb(18, 52, 110);
   --bs-primary-rgb: 18, 52, 110;
   --bs-secondary: rgb(213, 150, 167);
@@ -14,7 +14,7 @@
   --accent-color: rgb(137, 166, 216);
 }
 
-.theme-2 {
+.theme-matcha-latte {
   --bs-primary: rgb(47, 82, 47);
   --bs-primary-rgb: 47, 82, 47;
   --bs-secondary: rgb(225, 223, 214);
@@ -22,7 +22,7 @@
   --accent-color: rgb(183, 206, 183);
 }
 
-.theme-3 {
+.theme-old-necktie {
   --bs-primary: rgb(0, 31, 63);
   --bs-primary-rgb: 0, 31, 63;
   --bs-secondary: rgb(203, 186, 97);
@@ -30,7 +30,7 @@
   --accent-color: rgb(148, 183, 219);
 }
 
-.theme-4 {
+.theme-stone-pool {
   --bs-primary: rgb(51, 51, 51);
   --bs-primary-rgb: 51, 51, 51;
   --bs-secondary: rgb(73, 186, 152);
@@ -38,7 +38,7 @@
   --accent-color: rgb(148, 183, 219);
 }
 
-.theme-5 {
+.theme-creamsicle {
   --bs-primary: rgb(255, 253, 242);
   --bs-primary-rgb: 255, 253, 242;
   --bs-secondary: rgb(255, 152, 0);
@@ -46,7 +46,7 @@
   --accent-color: rgb(235, 174, 84);
 }
 
-.theme-6 {
+.theme-mint-chocolate {
   --bs-primary: rgb(152, 251, 152);
   --bs-primary-rgb: 152, 251, 152;
   --bs-secondary: rgb(64, 42, 0);
@@ -54,12 +54,20 @@
   --accent-color: rgb(0, 100, 0);
 }
 
-.theme-7 {
+.theme-blue-green {
   --bs-primary: rgb(5, 76, 152);
   --bs-primary-rgb: 5, 76, 152;
   --bs-secondary: rgb(132, 211, 118);
   --bs-secondary-rgb: 132, 211, 118;
   --accent-color: rgb(145, 194, 246);
+}
+
+.theme-mossy-slate {
+  --bs-primary: rgb(51, 51, 51);
+  --bs-primary-rgb: 51, 51, 51;
+  --bs-secondary: rgb(102, 183, 88);
+  --bs-secondary-rgb: 102, 183, 88;
+  --accent-color: rgb(33, 109, 19);
 }
 
 body {
