@@ -1,9 +1,65 @@
 :root {
-  --bs-primary: rgb(18, 52, 110) !important;
-  --bs-primary-rgb: 18, 52, 110 !important;
-  --bs-secondary: rgb(213, 150, 167) !important;
-  --bs-secondary-rgb: 213, 150, 167 !important;
-  --accent-color: rgb(137, 166, 216) !important;
+  --bs-primary: rgb(18, 52, 110);
+  --bs-primary-rgb: 18, 52, 110;
+  --bs-secondary: rgb(213, 150, 167);
+  --bs-secondary-rgb: 213, 150, 167;
+  --accent-color: rgb(137, 166, 216);
+}
+
+.theme-1 {
+  --bs-primary: rgb(18, 52, 110);
+  --bs-primary-rgb: 18, 52, 110;
+  --bs-secondary: rgb(213, 150, 167);
+  --bs-secondary-rgb: 213, 150, 167;
+  --accent-color: rgb(137, 166, 216);
+}
+
+.theme-2 {
+  --bs-primary: rgb(47, 82, 47);
+  --bs-primary-rgb: 47, 82, 47;
+  --bs-secondary: rgb(225, 223, 214);
+  --bs-secondary-rgb: 225, 223, 214;
+  --accent-color: rgb(183, 206, 183);
+}
+
+.theme-3 {
+  --bs-primary: rgb(0, 31, 63);
+  --bs-primary-rgb: 0, 31, 63;
+  --bs-secondary: rgb(203, 186, 97);
+  --bs-secondary-rgb: 203, 186, 97;
+  --accent-color: rgb(148, 183, 219);
+}
+
+.theme-4 {
+  --bs-primary: rgb(51, 51, 51);
+  --bs-primary-rgb: 51, 51, 51;
+  --bs-secondary: rgb(73, 186, 152);
+  --bs-secondary-rgb: 73, 186, 152;
+  --accent-color: rgb(148, 183, 219);
+}
+
+.theme-5 {
+  --bs-primary: rgb(255, 253, 242);
+  --bs-primary-rgb: 255, 253, 242;
+  --bs-secondary: rgb(255, 152, 0);
+  --bs-secondary-rgb: 255, 152, 0;
+  --accent-color: rgb(235, 174, 84);
+}
+
+.theme-6 {
+  --bs-primary: rgb(152, 251, 152);
+  --bs-primary-rgb: 152, 251, 152;
+  --bs-secondary: rgb(64, 42, 0);
+  --bs-secondary-rgb: 64, 42, 0;
+  --accent-color: rgb(0, 100, 0);
+}
+
+.theme-7 {
+  --bs-primary: rgb(5, 76, 152);
+  --bs-primary-rgb: 5, 76, 152;
+  --bs-secondary: rgb(132, 211, 118);
+  --bs-secondary-rgb: 132, 211, 118;
+  --accent-color: rgb(145, 194, 246);
 }
 
 body {
