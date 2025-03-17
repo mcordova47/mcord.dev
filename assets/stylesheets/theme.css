@@ -54,7 +54,7 @@
   --accent-color: rgb(0, 100, 0);
 }
 
-.theme-blue-green {
+.theme-marsh {
   --bs-primary: rgb(5, 76, 152);
   --bs-primary-rgb: 5, 76, 152;
   --bs-secondary: rgb(132, 211, 118);
@@ -68,6 +68,30 @@
   --bs-secondary: rgb(102, 183, 88);
   --bs-secondary-rgb: 102, 183, 88;
   --accent-color: rgb(33, 109, 19);
+}
+
+.theme-smores {
+  --bs-primary: rgb(102, 51, 0);
+  --bs-primary-rgb: 102, 51, 0;
+  --bs-secondary: rgb(255, 204, 0);
+  --bs-secondary-rgb: 255, 204, 0;
+  --accent-color: rgb(255, 244, 217);
+}
+
+.theme-yin-yang {
+  --bs-primary: rgb(234, 234, 234);
+  --bs-primary-rgb: 234, 234, 234;
+  --bs-secondary: rgb(17, 17, 17);
+  --bs-secondary-rgb: 17, 17, 17;
+  --accent-color: rgb(138, 138, 138);
+}
+
+.theme-autumn-leaves {
+  --bs-primary: rgb(224, 151, 56);
+  --bs-primary-rgb: 224, 151, 56;
+  --bs-secondary: rgb(80,35,15);
+  --bs-secondary-rgb: 80,35,15;
+  --accent-color: rgb(111, 8, 42);
 }
 
 body {
