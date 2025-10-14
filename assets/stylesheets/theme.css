@@ -4,6 +4,7 @@
   --bs-secondary: rgb(213, 150, 167);
   --bs-secondary-rgb: 213, 150, 167;
   --accent-color: rgb(137, 166, 216);
+  --bs-font-monospace: "Source Code Pro", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 .theme-cotton-candy {
@@ -154,4 +155,12 @@ body {
 
 .text-accent {
   color: var(--accent-color) !important;
+}
+
+.fill-accent {
+  fill: var(--accent-color) !important;
+}
+
+.fill-secondary {
+  fill: var(--accent-color) !important;
 }
